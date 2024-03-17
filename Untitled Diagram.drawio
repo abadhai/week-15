@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-17T07:12:55.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="L6LU2WNrmLHUZBnwtMm1" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-17T07:24:25.974Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="NBU-kzwpKkLhl-1OJbRu" version="24.0.7" type="github">
   <diagram name="Page-1" id="UN_G-sR3NQb6WVPRzQ4h">
-    <mxGraphModel dx="2222" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2462" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,27 @@
         </mxCell>
         <mxCell id="nvzUFnZenkRcPGuPmUDv-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="1">
           <mxGeometry x="-180" y="320" width="50" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="nvzUFnZenkRcPGuPmUDv-7" value="Resource group" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nvzUFnZenkRcPGuPmUDv-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;gradientColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="120" width="610" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="nvzUFnZenkRcPGuPmUDv-10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;labelBorderColor=default;dashed=1;fillStyle=dashed;strokeColor=#299BFF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="210" width="460" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="nvzUFnZenkRcPGuPmUDv-11" value="Subnet" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Subnet.svg;" vertex="1" parent="1">
+          <mxGeometry x="50" y="220" width="50.1" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nvzUFnZenkRcPGuPmUDv-12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillStyle=zigzag-line;" vertex="1" parent="1">
+          <mxGeometry x="120" y="276" width="364" height="364" as="geometry" />
+        </mxCell>
+        <mxCell id="nvzUFnZenkRcPGuPmUDv-13" value="VM" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Machine_2.svg;" vertex="1" parent="1">
+          <mxGeometry x="120" y="276" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="nvzUFnZenkRcPGuPmUDv-14" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="277" y="390" width="50" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
